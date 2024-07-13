@@ -33,6 +33,11 @@
             "domain": "classicalradio.com",
             "display_name": "ClassicalRadio",
             "sort_key": 4
+        },
+        "zenradio": {
+            "domain": "zenradio.com",
+            "display_name": "ZenRadio",
+            "sort_key": 5
         }
     }
 }

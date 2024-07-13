@@ -11,5 +11,6 @@
         <setting id="activate_rockradio" label="RockRadio" type="bool" default="true"/>
         <setting id="activate_jazzradio" label="JazzRadio" type="bool" default="true"/>
         <setting id="activate_classicalradio" label="ClassicalRadio" type="bool" default="true"/>
+        <setting id="activate_zenradio" label="ZenRadio" type="bool" default="true"/>
     </category>
 </settings>
